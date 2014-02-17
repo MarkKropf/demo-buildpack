@@ -20,4 +20,4 @@ $stderr.sync = true
 
 print 'This should all be... '
 sleep(3)
-puts '... on a single line'
+puts '...on a single line'
